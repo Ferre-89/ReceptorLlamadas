@@ -1,0 +1,1 @@
+A simple caller reception app. The essence of this app is to understand and grasp the basics, as well as the coding, for retrieving a phone call number and displaying a basic notification with the number. The purpose is not to create a fully functional app, but rather to serve as a practice exercise. It is not recommended to request all permissions as this app does.
